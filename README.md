@@ -13,13 +13,13 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 - **Notifikasi update otomatis**: aplikasi memberi tahu bila ada versi aplikasi atau patch baru.
 - Tombol **□ (Kotak)** = layar **Donasi QRIS**.
 
-## 🎮 Game yang didukung
+## Game yang didukung
 
 > Pastikan **versi game sama persis** dengan tabel di app. Patch tidak akan berjalan di versi lain.
 
 ---
 
-## 📋 Persyaratan
+## Persyaratan
 
 1. PS4 yang sudah **jailbreak** dengan **GoldHEN** aktif.
 2. **Plugin loader GoldHEN** aktif (Settings GoldHEN → Plugins).
@@ -28,7 +28,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ---
 
-## 📥 Cara Pasang Aplikasi
+## Cara Pasang Aplikasi
 
 1. Unduh **`IndraSundanesePatch_v2.01.pkg`** dari halaman [Releases](https://github.com/indrasundanese/crispy-rotary/releases/latest).
 2. Salin file `.pkg` ke flashdisk/ftp/hdd external (format **exFAT**), taruh di root atau folder yang terbaca Package Installer.
@@ -42,7 +42,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ---
 
-## 🚀 Cara Pakai
+## Cara Pakai
 
 1. **Aktifkan GoldHEN** terlebih dahulu.
 2. Buka aplikasi **Indra Sundanese Patch**.
@@ -68,7 +68,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ---
 
-## ❓ Masalah Umum
+## Masalah Umum
 
 | Masalah | Solusi |
 |---|---|
@@ -79,17 +79,17 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ---
 
-## ❤️ Dukungan
+## Dukungan
 
 Tekan **□** di aplikasi untuk memindai **QRIS donasi**. Dukunganmu membantu project terjemahan terus berjalan.
 
-## 📜 Ketentuan
+## Ketentuan
 
 - Dilarang mengunggah ulang / menjual tanpa izin.
 - Wajib mencantumkan kredit **@IndraSundanese** saat membagikan atau membuat konten.
 - Ketentuan lengkap: [www.indrasundanese.com](https://www.indrasundanese.com/ketentuan/)
 
-## 🔗 Komunitas
+## Komunitas
 
 [YouTube](https://www.youtube.com/@IndraSundanese/videos) · [TikTok](https://www.tiktok.com/@indra_sundanese?lang=en) · [Facebook](https://www.facebook.com/Indr4Sundanese/) · [Instagram](https://www.instagram.com/indra_liifsquad/) · [Discord](https://discord.com/invite/cgU8kZbQ9x) — **@IndraSundanese**
 
