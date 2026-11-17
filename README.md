@@ -6,7 +6,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 - Satu aplikasi untuk banyak game (RDR2, Resident Evil 4 Remake, dan game lain menyusul).
 - Unduh & pasang patch langsung dari PS4.
@@ -15,12 +15,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 
 ## 🎮 Game yang didukung
 
-| Game | ID | Versi game | Status |
-|---|---|---|---|
-| Resident Evil 4 Remake | CUSA33388 | 1.10 | Gratis |
-| Red Dead Redemption 2 | CUSA08519 | 1.32 | Gratis & Berbayar (key) |
-
-> Pastikan **versi game sama persis** dengan tabel di atas. Patch tidak akan berjalan di versi lain.
+> Pastikan **versi game sama persis** dengan tabel di app. Patch tidak akan berjalan di versi lain.
 
 ---
 
@@ -36,8 +31,8 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 ## 📥 Cara Pasang Aplikasi
 
 1. Unduh **`IndraSundanesePatch_v2.01.pkg`** dari halaman [Releases](https://github.com/indrasundanese/crispy-rotary/releases/latest).
-2. Salin file `.pkg` ke flashdisk (format **exFAT/FAT32**), taruh di root atau folder yang terbaca Package Installer.
-3. Colok flashdisk ke PS4 → buka **Debug Settings → Game → Package Installer** (atau melalui GoldHEN).
+2. Salin file `.pkg` ke flashdisk/ftp/hdd external (format **exFAT**), taruh di root atau folder yang terbaca Package Installer.
+3. Colok flashdisk ke PS4 → buka **Debug Settings → Package Installer** (atau melalui GoldHEN).
 4. Pilih `IndraSundanesePatch_v2.01.pkg` lalu pasang.
 5. Ikon **Indra Sundanese Patch** akan muncul di menu utama PS4.
 
@@ -52,7 +47,7 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 1. **Aktifkan GoldHEN** terlebih dahulu.
 2. Buka aplikasi **Indra Sundanese Patch**.
 3. Pilih game dari daftar.
-4. Pilih patch dan tekan **✕ (Silang)** untuk mengunduh/memasang.
+4. Pilih patch dan tekan **✕** untuk mengunduh/memasang.
    - **Gratis**: langsung terpasang.
    - **Berbayar (RDR2)**: masukkan / aktifkan key sesuai petunjuk di layar.
 5. Setelah selesai, **tutup aplikasi**, lalu **jalankan game**.
@@ -79,24 +74,24 @@ Aplikasi PS4 (homebrew GoldHEN) untuk memasang **patch terjemahan Bahasa Indones
 |---|---|
 | Teks game tetap Inggris | Pastikan plugin GoldHEN aktif, versi game sesuai, lalu restart game. |
 | Gagal unduh | Cek koneksi internet & DNS PS4, coba lagi. |
-| Batas unduh harian tercapai | Tunggu keesokan hari atau hubungi admin di Discord. |
+| Batas unduh harian tercapai | Tunggu keesokan hari atau hubungi admin. |
 | Game crash | Pastikan versi game cocok dan hanya satu patch terjemahan yang aktif. |
 
 ---
 
 ## ❤️ Dukungan
 
-Tekan **□** di aplikasi untuk memindai **QRIS donasi**. Dukungan Anda membantu proyek terjemahan terus berjalan.
+Tekan **□** di aplikasi untuk memindai **QRIS donasi**. Dukunganmu membantu project terjemahan terus berjalan.
 
 ## 📜 Ketentuan
 
 - Dilarang mengunggah ulang / menjual tanpa izin.
 - Wajib mencantumkan kredit **@IndraSundanese** saat membagikan atau membuat konten.
-- Ketentuan lengkap: [indrasundanese.com](https://indrasundanese.com)
+- Ketentuan lengkap: [www.indrasundanese.com](https://www.indrasundanese.com/ketentuan/)
 
 ## 🔗 Komunitas
 
-YouTube · TikTok · Facebook · Instagram · Discord — **@IndraSundanese**
+[YouTube](https://www.youtube.com/@IndraSundanese/videos) · [TikTok](https://www.tiktok.com/@indra_sundanese?lang=en) · [Facebook](https://www.facebook.com/Indr4Sundanese/) · [Instagram](https://www.instagram.com/indra_liifsquad/) · [Discord](https://discord.com/invite/cgU8kZbQ9x) — **@IndraSundanese**
 
 ---
 
